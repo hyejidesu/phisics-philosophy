@@ -1,1 +1,1 @@
-# phisics-philosophy
+# physics-philosophy
